@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<manifest identifier="flmAmiblH6JgfnAeqSzuP4MQSLMOMmbjWORTvEHE" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>C# Programlama Dili Eğitim Kursu</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>C# Programlama Dili Eğitim Kursu</title>
+        <adlcp:datafromlms>eyJjcHYiOiJXT1JUdkVIRSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/dd6e460f.js" />
+<file href="scormcontent/lib/rise/076bc519.css" />
+<file href="scormcontent/lib/rise/fb9c3d33.js" />
+<file href="scormcontent/lib/rise/e69f7d98.css" />
+<file href="scormcontent/lib/rise/cd29b19c.js" />
+<file href="scormcontent/lib/rise/77688f0c.js" />
+<file href="scormcontent/lib/rise/75f8c3eb.js" />
+<file href="scormcontent/lib/rise/10cbab57.js" />
+<file href="scormcontent/lib/rise/9689cd64.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/2cd6e099.js" />
+<file href="scormcontent/lib/mondrian/149ee6b8.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Inter-Light.woff" />
+<file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+<file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+<file href="scormcontent/lib/fonts/Inter-Black.woff" />
+<file href="scormcontent/assets/small.png" />
+<file href="scormcontent/assets/JeO5QETYrXlnAcE7-stock-image.jpg" />
+<file href="scormcontent/assets/stock-image.jpg" />
+<file href="scormcontent/assets/X-%C3%BC%C3%A7gen.png" />
+<file href="scormcontent/assets/r9BoQj/stock-image.jpg" />
+<file href="scormcontent/assets/FJ9yA2/stock-image.jpg" />
+<file href="scormcontent/assets/quote_background.jpg" />
+<file href="scormcontent/assets/Anders.jpg" />
+<file href="scormcontent/assets/Ders%20Notlar%C4%B1.pdf" />
+<file href="scormcontent/assets/Form.png" />
+<file href="scormcontent/assets/formsayfa.png" />
+<file href="scormcontent/assets/formsonuc.jpg" />
+<file href="scormcontent/assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-03-25%20150539.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
